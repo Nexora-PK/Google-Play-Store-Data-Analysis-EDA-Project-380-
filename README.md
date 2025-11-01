@@ -60,5 +60,5 @@ Jupyter Notebook / VS Code	     Code execution and documentation
 
 👨‍💻 Author :
 👨‍💻 Owais Kayani
-🌐 https://www.fiverr.com/s/qDLmy2l
+🌐 [https://www.fiverr.com/s/qDLmy2l](https://www.fiverr.com/s/ZmK6jgY)
 💡 For collaboration or project inquiries, please contact me through Fiverr only.
