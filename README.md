@@ -59,8 +59,6 @@ Jupyter Notebook / VS Code	     Code execution and documentation
 “Data cleaning might not be glamorous, but it’s the foundation of every successful data project.”
 
 👨‍💻 Author :
-
-Owais Kayani
-📧 owais.tech.2329@gmail.com
+👨‍💻 Owais Kayani
 🌐 https://www.fiverr.com/s/qDLmy2l
-🌐 www.linkedin.com/in/owais-kayani-data-analyst-at-anonymous-ai
+💡 For collaboration or project inquiries, please contact me through Fiverr only.
